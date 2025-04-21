@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer working remotely</h3>
 
 # 💫 About Me:
-🔭 I’m currently working with NextJS, NestJS, and Langchain.<br>💬 I'm curious about technology<br>📫 You can reach me @ isalmandev@gmail.com<br>⚡ Fun fact I'm a quick learner
+🔭 I’m working with React.js, Next.js, Node.js, Express.js, NestJS, Storybook.js, and Langchain.<br>💬 I'm curious about technology<br>📫 You can reach me @ isalmandev@gmail.com<br>⚡ I'm a quick learner
 
 
 ## 🌐 Socials:
