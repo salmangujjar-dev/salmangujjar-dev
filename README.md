@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
-<h3 align="center">Full Stack Developer working remotely</h3>
+<h3 align="center">Full Stack Engineer working remotely</h3>
 
 # 💫 About Me:
-🔭 I’m working with React.js, Next.js, Node.js, Express.js, NestJS, Storybook.js, and Langchain.<br>💬 I'm curious about technology<br>📫 You can reach me @ isalmandev@gmail.com<br>⚡ I'm a quick learner
+💬 I'm curious about technology<br>📫 You can reach me @ isalmandev@gmail.com
 
 
 ## 🌐 Socials:
