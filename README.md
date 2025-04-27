@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
-<h3 align="center">Full Stack Engineer working remotely</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 # 💫 About Me:
 💬 I'm curious about technology<br>📫 You can reach me @ isalmandev@gmail.com
